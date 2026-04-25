@@ -3,6 +3,14 @@
 **Course:** STA 160, Spring 2023 — UC Davis
 **Author:** Chiyang Chen
 
+<p align="center">
+  <img src="images/shot_red_marilyn_1964-19604.png" width="18%">
+  <img src="images/shot_lightblue_marilyn_1964-19604.png" width="18%">
+  <img src="images/shot_segablue_marilyn_1964-19604.png" width="18%">
+  <img src="images/shot_orange_marilyn_1964-19604.png" width="18%">
+  <img src="images/shot_turquoise_marilyn_1964-19604.png" width="18%">
+</p>
+
 ## Project Description
 
 A statistical and visual analysis of color properties across five of Andy Warhol's iconic 1964 *Marilyn Monroe* silkscreen prints. The five color variants analyzed are: **Red**, **Light Blue**, **Sega Blue**, **Orange**, and **Turquoise**.
